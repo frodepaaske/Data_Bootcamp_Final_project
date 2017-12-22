@@ -6,4 +6,4 @@ And I understand that:
 Submitting the same or substantially similar work in multiple courses, either in the same semester or in a different semester, without the express approval of all instructors is strictly forbidden.
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
-[Paragraph explaining the purpose of the project]
+With this project we have attempted to shed light on the current status of student debt for U.S. college students. We have done so by utilizing data from the US Department of Education to analyze trends from 2005 until now. 
